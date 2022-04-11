@@ -1,0 +1,14 @@
+C:\Users\haile\source\repos\HangmanGuess\HangmanGuess\bin\Debug\netcoreapp3.1\HangmanGuess.exe
+C:\Users\haile\source\repos\HangmanGuess\HangmanGuess\bin\Debug\netcoreapp3.1\HangmanGuess.deps.json
+C:\Users\haile\source\repos\HangmanGuess\HangmanGuess\bin\Debug\netcoreapp3.1\HangmanGuess.runtimeconfig.json
+C:\Users\haile\source\repos\HangmanGuess\HangmanGuess\bin\Debug\netcoreapp3.1\HangmanGuess.runtimeconfig.dev.json
+C:\Users\haile\source\repos\HangmanGuess\HangmanGuess\bin\Debug\netcoreapp3.1\HangmanGuess.dll
+C:\Users\haile\source\repos\HangmanGuess\HangmanGuess\bin\Debug\netcoreapp3.1\HangmanGuess.pdb
+C:\Users\haile\source\repos\HangmanGuess\HangmanGuess\obj\Debug\netcoreapp3.1\HangmanGuess.csproj.AssemblyReference.cache
+C:\Users\haile\source\repos\HangmanGuess\HangmanGuess\obj\Debug\netcoreapp3.1\HangmanGuess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haile\source\repos\HangmanGuess\HangmanGuess\obj\Debug\netcoreapp3.1\HangmanGuess.AssemblyInfoInputs.cache
+C:\Users\haile\source\repos\HangmanGuess\HangmanGuess\obj\Debug\netcoreapp3.1\HangmanGuess.AssemblyInfo.cs
+C:\Users\haile\source\repos\HangmanGuess\HangmanGuess\obj\Debug\netcoreapp3.1\HangmanGuess.csproj.CoreCompileInputs.cache
+C:\Users\haile\source\repos\HangmanGuess\HangmanGuess\obj\Debug\netcoreapp3.1\HangmanGuess.dll
+C:\Users\haile\source\repos\HangmanGuess\HangmanGuess\obj\Debug\netcoreapp3.1\HangmanGuess.pdb
+C:\Users\haile\source\repos\HangmanGuess\HangmanGuess\obj\Debug\netcoreapp3.1\HangmanGuess.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i36csjhUCVnuXEk/XIsQjPPI8yL2K9ZrEqyj3ks+2o2sDrC1hGoyNpQflGr2X+lGas6XXBSBJzLBf4QG2cuAHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\haile\\source\\repos\\HangmanGuess\\HangmanGuess\\HangmanGuess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\haile\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
